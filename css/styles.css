@@ -1,0 +1,48 @@
+body{
+  background-color: #D3DEDC;
+  font-family: 'Montserrat', sans-serif;
+}
+table{
+  width: 100%;
+}
+.name{
+  font-family: 'Comforter', cursive;
+  font-size: 100px;
+  font-weight: 200;
+  color: #1A374D;
+}
+h3{
+  color: #1A374D;
+}
+
+.codeimg{
+  height: 20%;
+  position: relative;
+  left: 30%;
+  top:100px;
+}
+
+.codeimg2{
+  height: 20%;
+  position: relative;
+  right: 30%;
+  top:100px;
+}
+
+.top{
+  height: 200px;
+  align-items: center;
+  text-align: center;
+
+}
+
+
+
+.basicInfo{
+  text-align: center;
+  align-items: center;
+}
+
+html {
+  font-size: 12px;
+}
